@@ -1,0 +1,9 @@
+c:\users\robert.clarke\documents\visual studio 2017\Projects\QuickstartIdentityServer\QuickstartIdentityServer\bin\Debug\netcoreapp1.1\QuickstartIdentityServer.deps.json
+c:\users\robert.clarke\documents\visual studio 2017\Projects\QuickstartIdentityServer\QuickstartIdentityServer\bin\Debug\netcoreapp1.1\QuickstartIdentityServer.runtimeconfig.json
+c:\users\robert.clarke\documents\visual studio 2017\Projects\QuickstartIdentityServer\QuickstartIdentityServer\bin\Debug\netcoreapp1.1\QuickstartIdentityServer.runtimeconfig.dev.json
+c:\users\robert.clarke\documents\visual studio 2017\Projects\QuickstartIdentityServer\QuickstartIdentityServer\bin\Debug\netcoreapp1.1\QuickstartIdentityServer.dll
+c:\users\robert.clarke\documents\visual studio 2017\Projects\QuickstartIdentityServer\QuickstartIdentityServer\obj\Debug\netcoreapp1.1\QuickstartIdentityServer.csprojResolveAssemblyReference.cache
+c:\users\robert.clarke\documents\visual studio 2017\Projects\QuickstartIdentityServer\QuickstartIdentityServer\obj\Debug\netcoreapp1.1\QuickstartIdentityServer.AssemblyInfo.cs
+c:\users\robert.clarke\documents\visual studio 2017\Projects\QuickstartIdentityServer\QuickstartIdentityServer\bin\Debug\netcoreapp1.1\QuickstartIdentityServer.pdb
+c:\users\robert.clarke\documents\visual studio 2017\Projects\QuickstartIdentityServer\QuickstartIdentityServer\obj\Debug\netcoreapp1.1\QuickstartIdentityServer.dll
+c:\users\robert.clarke\documents\visual studio 2017\Projects\QuickstartIdentityServer\QuickstartIdentityServer\obj\Debug\netcoreapp1.1\QuickstartIdentityServer.pdb
